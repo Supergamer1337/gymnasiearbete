@@ -8,7 +8,7 @@ width = img.width
 height = img.height
 
 # Divide by
-divide = 2
+divide = 4
 
 # Create smaller image
 img.thumbnail((width/divide,height/divide))
